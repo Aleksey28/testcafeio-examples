@@ -4,3 +4,5 @@
 yarn.lock
 package-lock.json
 .npmrc
+/screenshots/
+/interfaces/programmatic/create-testcafe/regular/screenshots/
